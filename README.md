@@ -59,3 +59,7 @@ Joanna K.
 
 ## Wersje projektu
 1.0
+
+## Współpraca w projekcie
+- [Zasady współpracy (Contributing)](Contributing.md)
+- [Kodeks postępowania (Code of Conduct)](CODE_OF_CONDUCT.md)
