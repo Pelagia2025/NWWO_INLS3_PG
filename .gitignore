@@ -4,5 +4,8 @@ Thumbs.db
 #macOS
 .DS_Store
 
+#katalogi pythona
+__pycache__
+
 # własne pliki
 zadania.txt
