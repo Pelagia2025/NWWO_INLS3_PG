@@ -52,4 +52,4 @@ git commit -m"docs: zaktualizuj readme.md"
 - Jeśli utkniesz nad jakimś zadaniem na dłużej, poinformuj o tym zespół, aby móc szybko poszukać rozwiązania.
 - Dbaj o kulturę wypowiedzi i wzajemne wsparcie podczas dyskusji i przeglądów kodu.
 
-Dziękuję za współpracę i wkład w rozwój projektu!**
+**Dziękuję za współpracę i wkład w rozwój projektu!**
