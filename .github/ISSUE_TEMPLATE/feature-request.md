@@ -2,7 +2,7 @@
 name: Nowa funkcjonalność
 about: Zaproponuj nową funkcjonalność
 title: "[FEATURE] krótki opis do uzupełnienia"
-labels: enhancment
+labels: enhancement
 type: Feature
 assignes: ""
 ---
