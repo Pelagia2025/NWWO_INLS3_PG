@@ -3,7 +3,7 @@ name: Zmiana dokumentacji
 about: Sprawa dotycząca zmiany lub aktualizacji dokumentacji projektu
 title: "[DOCUMENTATION] Krótki opis do uzupełnienia"
 labels: documentation
-type: Feature
+type: Task
 assigment: ""
 ---
 
